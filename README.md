@@ -1,1 +1,1 @@
-# PrometheanAI-3dsmax-plugin
+# PrometheanAI 3dsmax plugin
