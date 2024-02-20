@@ -1,0 +1,1 @@
+python.ExecuteFile ((GetDir #userScripts) + "/promethean_max.py")
